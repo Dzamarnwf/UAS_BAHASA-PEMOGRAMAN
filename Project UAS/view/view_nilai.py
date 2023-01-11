@@ -49,6 +49,6 @@ def cetak_hasil_pencarian():
 
 def tampilan():
     print('=' * 84)
-    print(f"|{'DIPCA ANUGRAH':^82}|")
+    print(f"|{'Dzamar nawaf':^85}|")
     print(f"|{'PROGRAM INPUT DATA MAHASISWA':^82}|")
     print('=' * 84)
